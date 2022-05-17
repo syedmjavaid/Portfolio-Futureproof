@@ -1,3 +1,18 @@
 .about {
+  padding: 20 px;
   background-color: burlywood;
+  display: flex;
+}
+
+.inner-about {
+  padding: 20px;
+}
+
+.linkedin {
+  font-size: 20px;
+}
+
+.picture {
+  width: 300px;
+  border-radius: 50%;
 }
